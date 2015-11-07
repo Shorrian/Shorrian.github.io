@@ -1,0 +1,34 @@
+/***********************************************************
+
+************************************************************/
+*{
+    margin:0;
+    padding:0;
+}
+/***********************************************************
+NAVIGATION BAR
+************************************************************/
+#nav-name{
+    display:inline-block;
+    font-size:40px;
+    font-family:'Open Sans Condensed', san-serif;
+    
+}
+#top-nav-bar{
+    width:100%;
+    padding:2% 0 2%;
+    position:fixed;
+    text-align:center;
+    background-color:#149391;
+}
+.nav-buttons{
+    font-size:24px;
+    display:inline-block;
+    margin:0 5%;
+    border-style:solid;
+    border-color:#00dddd;
+    border-width:1px;
+    border-radius:14px;
+    padding:.8% 4%;
+}
+

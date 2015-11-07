@@ -1,5 +1,5 @@
-$('#clickme').click(function(){
-    $('#test').hide("slow", function(){
+$('.nav-buttons').click(function(){
+    $('.nav-buttons').hide("slow", function(){
         alert("Animation complete");
     });
 });
