@@ -5,6 +5,7 @@
     margin:0;
     padding:0;
     text-decoration:none;
+    font-family: 'Roboto Condensed', sans-serif;
     color:white;
 }
 body{
@@ -43,7 +44,7 @@ NAVIGATION BAR
 /********************************************************
 BODY TEMPLATE
 *******************************************************/
-#bg{
+.bg{
     width:50%;
     margin:auto;
     margin-top: 150px;
@@ -52,10 +53,9 @@ BODY TEMPLATE
     background-color: rgba(0, 0, 0, .5);
     line-height:1.5;
 }
-#bg p{
+.bg p{
     margin:1%;
 }
-#bg h2{
-    text-decoration:underline white;
+.bg h2{
+    text-decoration:underline;
 }
-
