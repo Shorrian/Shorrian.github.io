@@ -1,11 +1,19 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <link rel="import" href="template.html">
-        <div id="container"></div>
-        <script type="text/javascript" src="import-template.js"></script>
-        <title>Welcome to the World of Secrets</title>
-    </head>
-    <body>
-    </body>
-</html>
+---
+layout: default
+---
+
+<section class ="content">
+    <p>
+        Welcome to my venture into Computer Science topics. Please check out my <a href="/portfolio">Portfolio</a> to see my work.
+    </p>
+    <ul class="entries">
+        {% for post in site.posts%}
+        <li>
+            <a href="{{post.url}}">
+                <h3>{{post.title}}</h3>
+            </a>
+            {{post.excerpt}}
+        </li>
+        {% endfor %}
+    </ul>
+</section>
