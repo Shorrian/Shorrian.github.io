@@ -3,19 +3,4 @@ layout: default
 ---
 
 <section class ="content">
-    <p>
-        Welcome to my venture into Computer Science topics. Please check out my <a href="/portfolio">Portfolio</a> to see my work. This website is still in progress so please forgive the horrendous UI
-    </p>
-    <ul class="entries">
-        {% for post in site.posts%}
-        <li>
-            <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-            <a href="{{post.url}}">
-                <h3>{{post.title}}</h3>
-            </a>
-            <p>{{post.description}}</p>
-            {{post.excerpt}}    
-        </li>
-        {% endfor %}
-    </ul>
 </section>

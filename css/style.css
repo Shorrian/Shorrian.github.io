@@ -1,74 +1,58 @@
-/***********************************************************
-
-************************************************************/
 *{
     margin:0;
     padding:0;
-    font-family: 'Roboto Condensed', sans-serif;
-    color:white;
+    list-style: none;
+    text-decoration:none;
+    color:#000;
+}
+
+html, body{
+    height:100%;
+    width:100%;
+    font-size:16px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 body{
-    background-image:url("/img/bg-main.png");
-    color:white;
+    overflow-y:scroll;
+    background: ;
 }
-#main{
-    width:960px;
-    margin:0 auto;
+::-webkit-scrollbar { 
+    display: none; 
 }
-a{
-    text-decoration:none;
-}
-a:hover{
-    text-decoration: underline;
-}
-header{
-    padding:10px 20px;
-    overflow:hidden;
-    background:rgba(0,0,0,0.6);
-}
-
-
-footer{
-    font-size:2em;
-    text-align:center;
-}
-
-/***********************************************************
+/*****************************************************************
 NAVIGATION BAR
-************************************************************/
- nav ul, ul.entries{
-    list-style-type: none;
+*****************************************************************/
+#main-nav *{
+    color:#f0fAf0;
 }
-nav li a{
-    float:left;
-    margin:5px;
-}
-/********************************************************
-BODY TEMPLATE
-*******************************************************/
-.content{
-    background-color:rgba(0, 0,0,.6); 
-    margin: 20px 0;
-    padding:20px;
+#main-nav{
+    width:30%;
+    height:100%;
+    background:#000;
+    position:fixed;
+    text-align:left;
+    padding:10px;
 }
 
-/************************************************************
-POSTS
-***************************************************************/
-
-ul.entries{
-    width:100%;
-}
-ul.entries li {
+#main-nav-about{
     position:relative;
-    width:90%;
-    margin:1% auto;
-    padding:20px;
-    background-color:rgba(0,0,255, 0.2);
+    margin-top:30%;
+    font-size:20px;
+    left:10px;
 }
-ul.entries a {
-    color:#ececec;
+#main-nav-about h1{
+    font-size:3.25rem;
 }
-ul.entries a:hover{
+#main-nav-about *{
+    margin: 10px 0;
+}
+#main-nav-list{
+    display:block;
+    line-height:1.5;
+    position:relative;
+    left:10px;
+}
+#main-nav-list a:hover{
+    text-decoration:underline;
     color:#fff;
 }

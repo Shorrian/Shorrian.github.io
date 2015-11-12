@@ -1,30 +1,9 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <title>{% if page.title %} {{page.title}} |{% endif %}Venture</title>
-        <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
-        <link rel="stylesheet" type="text/css" href="/css/style.css">
-        <link href='https://fonts.googleapis.com/css?family=Open+Sans+Condensed:700' rel='stylesheet' type='text/css'>
-        <link href='https://fonts.googleapis.com/css?family=Roboto+Condensed' rel='stylesheet' type='text/css'>
-    </head>
+    {% include head.html %}
     <body>
-        <div id="main">
-            <header>
-                <h1 id="project_title">Venture</h1>
-                <nav role="navigation">
-                    <ul>
-                        <li><a href="/">Home</a></li>
-                        <li><a href="/portfolio/">Portfolio</a></li>
-                        <li><a href="/about/">About</a></li>
-                        <li><a href="/contact/">Contact</a></li>
-                    </ul>
-                </nav>
-            </header>
-            <div class="center">
-                {{content}}
-            </div>
-            <footer>
-            </footer>
-        </div>
+        {% include split_page.html %}
+
+        {{content}}
     </body>
 </html>
