@@ -23,22 +23,33 @@ body{
 NAVIGATION BAR
 *****************************************************************/
 #main-nav *{
-    color:#f0fAf0;
+    color:rgba(255,255,255,.5);
+
+}
+#main-nav a{
+    color:#fff;
+}
+a:hover {
+    text-decoration: underline;
 }
 #main-nav{
+    padding:2rem 1rem;
     width:30%;
     height:100%;
     background:#000;
     position:fixed;
     text-align:left;
-    padding:10px;
 }
 
 #main-nav-about{
-    position:relative;
     margin-top:30%;
     font-size:20px;
-    left:10px;
+    
+}
+#main-nav-about a:hover{
+    text-decoration:none;
+}
+#main-nav-about p{
 }
 #main-nav-about h1{
     font-size:3.25rem;
@@ -49,10 +60,11 @@ NAVIGATION BAR
 #main-nav-list{
     display:block;
     line-height:1.5;
-    position:relative;
-    left:10px;
 }
-#main-nav-list a:hover{
-    text-decoration:underline;
-    color:#fff;
+/**************************************************
+CONTAINER
+**************************************************/
+.container{
+    padding-top:4rem;
+    padding-bottom:4rem;
 }

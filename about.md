@@ -1,7 +1,6 @@
 ---
-layout: page
+layout: default 
 title: About
-permalink: /about/
 ---
 
 Hi! My name is Harrison Ding and I am a computer programmer who is expanding his current knowledge

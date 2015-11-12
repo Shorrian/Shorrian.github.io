@@ -1,13 +1,16 @@
 <div id="main-nav">
-    <div id="main-nav-about">
-        <h1>Harrison Ding</h1>
-        <p>{{site.description}} </p>
+    <div class="container">
+        <div id="main-nav-about" >
+            <h1><a href="/">Harrison Ding</a></h1>
+            <p>{{site.description}} </p>
+        </div>
+        <ul id="main-nav-list">
+            <li class="main-nav-bar-item"><a href="/">Home</a></li>
+            <li class="main-nav-bar-item"><a href="/about/">About</a></li>
+            <li class="main-nav-bar-item"><a href="/portfolio/">Portfolio</a></li>
+            <li class="main-nav-bar-item"><a href="http://github.com/shorrian/">Github</a></li>
+            <li class="main-nav-bar-item"><a href="/contact/">Contact</a></li>
+            <li class="main-nav-bar-item">Currently v{{site.version}}</li>
+        </ul>
     </div>
-    <ul id="main-nav-list">
-        <li class="main-nav-bar-item"><a href="/">Home</a></li>
-        <li class="main-nav-bar-item"><a href="/about/">About</a></li>
-        <li class="main-nav-bar-item"><a href="/portfolio/">Portfolio</a></li>
-        <li class="main-nav-bar-item"><a href="http://github.com/shorrian/">Github</a></li>
-        <li class="main-nav-bar-item"><a href="/contact/">Contact</a></li>
-    </ul>
 </div>

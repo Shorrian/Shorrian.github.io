@@ -7,16 +7,16 @@
 
 # Site settings
 title: Harrison Ding
-email: your-email@domain.com
+email: harrisond2015@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
     Hi! My name is Harrison Ding and I am a computer programmer and I am expanding my current knowledge
     of computer science through various projects. This blog is one of my attempts in expanding my knowledge
     through learning more about templating, HTML, and CSS.
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "shorrian.github.io" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
-
+version: 1.0
 # Build settings
 markdown: kramdown
