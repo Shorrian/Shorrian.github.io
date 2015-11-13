@@ -4,6 +4,9 @@
     <body>
         {% include split_page.html %}
 
-        {{content}}
+        <div class="content container">
+            {% include header.html %}
+            {{content}}
+        </div>
     </body>
 </html>
