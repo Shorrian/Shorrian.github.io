@@ -1,6 +1,6 @@
 ---
 layout: post
-title: #1 The start of my journey
+title: #1 The start of my journey v1.1
 ---
 
 This is the first post to my website. The journey so far has been an interesting experience
@@ -20,4 +20,7 @@ any html file in my includes folder and include it within my html with a simple 
 
 From there, I scrapped my entire project to build everything based off of Jekyll, but my project\'s 
 user interface still looked like it came from a garbage can, so I looked for more themes. This is one
-of the best themes that I\'ve found as it\'s simple and easy to navigate. <a>Hello</a>
+of the best themes that I\'ve found as it\'s simple and easy to navigate. The theme I am currently using is
+called Hyde. While it isn\'t an exact copy, as I\'ve customized it to what my limited aesthetic ability can create,
+
+
