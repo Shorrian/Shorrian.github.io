@@ -20,6 +20,9 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "shorrian.github.io" # the base hostname & protocol for your site
 twitter_username: shorrian
 github_username: shorrian 
+facebook_username: NOCAPPS
+linkedin_username: shorrian
+
 version: 2.0
 # Build settings
 markdown: kramdown
