@@ -13,8 +13,8 @@ permalink: /about/
     <p> Initially, my main interest was Game Development, since games were what introduced me to the world of
     programming. However, after trying it out a couple of times, I realized that I have much to improve upon 
     before I could implement all the features of what I desired to create. So, in order
-    to pursue such this interest in the future, I have decided to look through other aspects of computer science 
-    and what it has to offer.</p>
+    to pursue such an interest in the future, I have decided to look through other aspects of computer science 
+    and what they have to offer.</p>
 
     <p>As of right now, my current interests lie in artificial intelligence and machine learning, as I know that I have much to 
     explore in those fields. I have been creating many self-projects and seeking other projects in hopes of learning more about each of 

@@ -3,11 +3,11 @@ layout: default
 title: Projects
 ---
 <div class="marginalize">
-    <ul>
+    <ul >
         {% for project in site.categories.projects %}
             <li>                
                 <p>{{project.title}}</p>
-                <p>{{site.url}}{{project.url}}</p>
+                <a href="{{project.url | prepend: site.baseurl}}"><p>{{site.url}}{{project.url}}</p></a>
             </li>
         {% endfor %}
     </ul>

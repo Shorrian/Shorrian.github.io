@@ -12,10 +12,6 @@ html{
 body{
     height:100%;
 }
-a {
-    /*color:#000;
-    text-decoration: none;*/
-}
 /************************************************************
 HEADER
 ************************************************************/
@@ -53,6 +49,7 @@ CONTENT
 .content{
     padding-top:60px;
     line-height:2rem;
+    padding-bottom:10%
 }
 .content *{
     margin-top:10px;
@@ -76,20 +73,20 @@ CONTENT
     border-bottom-color:#000;
 }
 .wrapper{
-    height:100%;
+    position:relative;
     min-height:100%;
 }
 /****************************************************************
 FOOTER
 ****************************************************************/
 footer{
-    margin-top:.75rem;
-    padding:1rem 0;
+    height:5%;
+    padding:2% 0;
     width:100%;
     font-size:.75rem;
     background:#2da7b5;
     color:rgba(255,255,255,1);
-    position:relative;
+    position:absolute;
     bottom:0px;
 }
 footer a{
