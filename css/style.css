@@ -1,4 +1,4 @@
-html, body, ul, li, h1, h2, h3, h4, h5, h6{
+html, body,p,  ul, li, h1, h2, h3, h4, h5, h6{
     margin:0;
     padding:0;
     font-family: 'Droid Sans', sans-serif;
@@ -26,7 +26,7 @@ HEADER
     position:relative;
     float:left;
     display:block;
-    left:14%;
+    left:20%;
 }
 .header li{
     display:block;
@@ -51,8 +51,18 @@ CONTENT
     padding-top:60px;
     line-height:2rem;
 }
+.content *{
+    margin-top:10px;
+}
 .centered {
     text-align:center;
+}
+.banner{
+    width:100%;
+    padding:3rem 0;
+}
+.banner-title{
+    font-size:3rem;
 }
 .marginalize{
     width:70%;
@@ -85,7 +95,10 @@ footer img:hover{
     background:#a144ff;
     transition:.5s;
 }
-footer .copyright{
+footer .right-footer{
     float:right;
     width:14rem;
+}
+.label{
+    font-size:1rem;
 }

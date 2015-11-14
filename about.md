@@ -6,206 +6,22 @@ permalink: /about/
 
 <div class="marginalize">
     <h2 class="header-line">About Me</h2>
-    Hi! My name is Harrison Ding and I am a computer programmer who is expanding his current knowledge
-    of computer science through various projects. This blog is one of my attempts in expanding my knowledge
-    through learning more about templating, HTML, and CSS. Check out some of these projects and feel free to email
-    me if you have any questions or comments on my code!
-    Hi! My name is Harrison Ding and I am a computer programmer who is expanding his current knowledge
-    of computer science through various projects. This blog is one of my attempts in expanding my knowledge
-    through learning more about templating, HTML, and CSS. Check out some of these projects and feel free to email
-    me if you have any questions or comments on my code!
-    Hi! My name is Harrison Ding and I am a computer programmer who is expanding his current knowledge
-    of computer science through various projects. This blog is one of my attempts in expanding my knowledge
-    through learning more about templating, HTML, and CSS. Check out some of these projects and feel free to email
-    me if you have any questions or comments on my code!
-    Hi! My name is Harrison Ding and I am a computer programmer who is expanding his current knowledge
-    of computer science through various projects. This blog is one of my attempts in expanding my knowledge
-    through learning more about templating, HTML, and CSS. Check out some of these projects and feel free to email
-    me if you have any questions or comments on my code!
-    Hi! My name is Harrison Ding and I am a computer programmer who is expanding his current knowledge
-    of computer science through various projects. This blog is one of my attempts in expanding my knowledge
-    through learning more about templating, HTML, and CSS. Check out some of these projects and feel free to email
-    me if you have any questions or comments on my code!
-    Hi! My name is Harrison Ding and I am a computer programmer who is expanding his current knowledge
-    of computer science through various projects. This blog is one of my attempts in expanding my knowledge
-    through learning more about templating, HTML, and CSS. Check out some of these projects and feel free to email
-    me if you have any questions or comments on my code!
-    Hi! My name is Harrison Ding and I am a computer programmer who is expanding his current knowledge
-    of computer science through various projects. This blog is one of my attempts in expanding my knowledge
-    through learning more about templating, HTML, and CSS. Check out some of these projects and feel free to email
-    me if you have any questions or comments on my code!
-    Hi! My name is Harrison Ding and I am a computer programmer who is expanding his current knowledge
-    of computer science through various projects. This blog is one of my attempts in expanding my knowledge
-    through learning more about templating, HTML, and CSS. Check out some of these projects and feel free to email
-    me if you have any questions or comments on my code!
-    Hi! My name is Harrison Ding and I am a computer programmer who is expanding his current knowledge
-    of computer science through various projects. This blog is one of my attempts in expanding my knowledge
-    through learning more about templating, HTML, and CSS. Check out some of these projects and feel free to email
-    me if you have any questions or comments on my code!
-    Hi! My name is Harrison Ding and I am a computer programmer who is expanding his current knowledge
-    of computer science through various projects. This blog is one of my attempts in expanding my knowledge
-    through learning more about templating, HTML, and CSS. Check out some of these projects and feel free to email
-    me if you have any questions or comments on my code!
+    <p>I'm a freshman currently studying in the University of Illinois Urbana-Champaign. So far, I have
+    explored a multitude of realms of computer science, such as web development, desktop application development,
+    game development and mobile application development.</p>
+    
+    <p> Initially, my main interest was Game Development, since games were what introduced me to the world of
+    programming. However, after trying it out a couple of times, I realized that I have much to improve upon 
+    before I could implement all the features of what I desired to create. So, in order
+    to pursue such this interest in the future, I have decided to look through other aspects of computer science 
+    and what it has to offer.</p>
 
-    Hi! My name is Harrison Ding and I am a computer programmer who is expanding his current knowledge
-    of computer science through various projects. This blog is one of my attempts in expanding my knowledge
-    through learning more about templating, HTML, and CSS. Check out some of these projects and feel free to email
-    me if you have any questions or comments on my code!
-    Hi! My name is Harrison Ding and I am a computer programmer who is expanding his current knowledge
-    of computer science through various projects. This blog is one of my attempts in expanding my knowledge
-    through learning more about templating, HTML, and CSS. Check out some of these projects and feel free to email
-    me if you have any questions or comments on my code!
+    <p>As of right now, my current interests lie in artificial intelligence and machine learning, as I know that I have much to 
+    explore in those fields. I have been creating many self-projects and seeking other projects in hopes of learning more about each of 
+    the fields that are offered in computer science, and I have progressed much, but I have only explored the tip of the iceberg.
+    I am continuing this journey of seeking more about what I could learn from computer science before finally implementing my goal.</p>
 
-    Hi! My name is Harrison Ding and I am a computer programmer who is expanding his current knowledge
-    of computer science through various projects. This blog is one of my attempts in expanding my knowledge
-    through learning more about templating, HTML, and CSS. Check out some of these projects and feel free to email
-    me if you have any questions or comments on my code!
-    Hi! My name is Harrison Ding and I am a computer programmer who is expanding his current knowledge
-    of computer science through various projects. This blog is one of my attempts in expanding my knowledge
-    through learning more about templating, HTML, and CSS. Check out some of these projects and feel free to email
-    me if you have any questions or comments on my code!
-
-    Hi! My name is Harrison Ding and I am a computer programmer who is expanding his current knowledge
-    of computer science through various projects. This blog is one of my attempts in expanding my knowledge
-    through learning more about templating, HTML, and CSS. Check out some of these projects and feel free to email
-    me if you have any questions or comments on my code!
-    Hi! My name is Harrison Ding and I am a computer programmer who is expanding his current knowledge
-    of computer science through various projects. This blog is one of my attempts in expanding my knowledge
-    through learning more about templating, HTML, and CSS. Check out some of these projects and feel free to email
-    me if you have any questions or comments on my code!
-
-    Hi! My name is Harrison Ding and I am a computer programmer who is expanding his current knowledge
-    of computer science through various projects. This blog is one of my attempts in expanding my knowledge
-    through learning more about templating, HTML, and CSS. Check out some of these projects and feel free to email
-    me if you have any questions or comments on my code!
-    Hi! My name is Harrison Ding and I am a computer programmer who is expanding his current knowledge
-    of computer science through various projects. This blog is one of my attempts in expanding my knowledge
-    through learning more about templating, HTML, and CSS. Check out some of these projects and feel free to email
-    me if you have any questions or comments on my code!
-
-    Hi! My name is Harrison Ding and I am a computer programmer who is expanding his current knowledge
-    of computer science through various projects. This blog is one of my attempts in expanding my knowledge
-    through learning more about templating, HTML, and CSS. Check out some of these projects and feel free to email
-    me if you have any questions or comments on my code!
-    Hi! My name is Harrison Ding and I am a computer programmer who is expanding his current knowledge
-    of computer science through various projects. This blog is one of my attempts in expanding my knowledge
-    through learning more about templating, HTML, and CSS. Check out some of these projects and feel free to email
-    me if you have any questions or comments on my code!
-
-    Hi! My name is Harrison Ding and I am a computer programmer who is expanding his current knowledge
-    of computer science through various projects. This blog is one of my attempts in expanding my knowledge
-    through learning more about templating, HTML, and CSS. Check out some of these projects and feel free to email
-    me if you have any questions or comments on my code!
-    Hi! My name is Harrison Ding and I am a computer programmer who is expanding his current knowledge
-    of computer science through various projects. This blog is one of my attempts in expanding my knowledge
-    through learning more about templating, HTML, and CSS. Check out some of these projects and feel free to email
-    me if you have any questions or comments on my code!
-
-    Hi! My name is Harrison Ding and I am a computer programmer who is expanding his current knowledge
-    of computer science through various projects. This blog is one of my attempts in expanding my knowledge
-    through learning more about templating, HTML, and CSS. Check out some of these projects and feel free to email
-    me if you have any questions or comments on my code!
-    Hi! My name is Harrison Ding and I am a computer programmer who is expanding his current knowledge
-    of computer science through various projects. This blog is one of my attempts in expanding my knowledge
-    through learning more about templating, HTML, and CSS. Check out some of these projects and feel free to email
-    me if you have any questions or comments on my code!
-
-    Hi! My name is Harrison Ding and I am a computer programmer who is expanding his current knowledge
-    of computer science through various projects. This blog is one of my attempts in expanding my knowledge
-    through learning more about templating, HTML, and CSS. Check out some of these projects and feel free to email
-    me if you have any questions or comments on my code!
-    Hi! My name is Harrison Ding and I am a computer programmer who is expanding his current knowledge
-    of computer science through various projects. This blog is one of my attempts in expanding my knowledge
-    through learning more about templating, HTML, and CSS. Check out some of these projects and feel free to email
-    me if you have any questions or comments on my code!
-
-    Hi! My name is Harrison Ding and I am a computer programmer who is expanding his current knowledge
-    of computer science through various projects. This blog is one of my attempts in expanding my knowledge
-    through learning more about templating, HTML, and CSS. Check out some of these projects and feel free to email
-    me if you have any questions or comments on my code!
-    Hi! My name is Harrison Ding and I am a computer programmer who is expanding his current knowledge
-    of computer science through various projects. This blog is one of my attempts in expanding my knowledge
-    through learning more about templating, HTML, and CSS. Check out some of these projects and feel free to email
-    me if you have any questions or comments on my code!
-
-    Hi! My name is Harrison Ding and I am a computer programmer who is expanding his current knowledge
-    of computer science through various projects. This blog is one of my attempts in expanding my knowledge
-    through learning more about templating, HTML, and CSS. Check out some of these projects and feel free to email
-    me if you have any questions or comments on my code!
-    Hi! My name is Harrison Ding and I am a computer programmer who is expanding his current knowledge
-    of computer science through various projects. This blog is one of my attempts in expanding my knowledge
-    through learning more about templating, HTML, and CSS. Check out some of these projects and feel free to email
-    me if you have any questions or comments on my code!
-
-    Hi! My name is Harrison Ding and I am a computer programmer who is expanding his current knowledge
-    of computer science through various projects. This blog is one of my attempts in expanding my knowledge
-    through learning more about templating, HTML, and CSS. Check out some of these projects and feel free to email
-    me if you have any questions or comments on my code!
-    Hi! My name is Harrison Ding and I am a computer programmer who is expanding his current knowledge
-    of computer science through various projects. This blog is one of my attempts in expanding my knowledge
-    through learning more about templating, HTML, and CSS. Check out some of these projects and feel free to email
-    me if you have any questions or comments on my code!
-
-    Hi! My name is Harrison Ding and I am a computer programmer who is expanding his current knowledge
-    of computer science through various projects. This blog is one of my attempts in expanding my knowledge
-    through learning more about templating, HTML, and CSS. Check out some of these projects and feel free to email
-    me if you have any questions or comments on my code!
-    Hi! My name is Harrison Ding and I am a computer programmer who is expanding his current knowledge
-    of computer science through various projects. This blog is one of my attempts in expanding my knowledge
-    through learning more about templating, HTML, and CSS. Check out some of these projects and feel free to email
-    me if you have any questions or comments on my code!
-
-    Hi! My name is Harrison Ding and I am a computer programmer who is expanding his current knowledge
-    of computer science through various projects. This blog is one of my attempts in expanding my knowledge
-    through learning more about templating, HTML, and CSS. Check out some of these projects and feel free to email
-    me if you have any questions or comments on my code!
-    Hi! My name is Harrison Ding and I am a computer programmer who is expanding his current knowledge
-    of computer science through various projects. This blog is one of my attempts in expanding my knowledge
-    through learning more about templating, HTML, and CSS. Check out some of these projects and feel free to email
-    me if you have any questions or comments on my code!
-
-    Hi! My name is Harrison Ding and I am a computer programmer who is expanding his current knowledge
-    of computer science through various projects. This blog is one of my attempts in expanding my knowledge
-    through learning more about templating, HTML, and CSS. Check out some of these projects and feel free to email
-    me if you have any questions or comments on my code!
-    Hi! My name is Harrison Ding and I am a computer programmer who is expanding his current knowledge
-    of computer science through various projects. This blog is one of my attempts in expanding my knowledge
-    through learning more about templating, HTML, and CSS. Check out some of these projects and feel free to email
-    me if you have any questions or comments on my code!
-
-    Hi! My name is Harrison Ding and I am a computer programmer who is expanding his current knowledge
-    of computer science through various projects. This blog is one of my attempts in expanding my knowledge
-    through learning more about templating, HTML, and CSS. Check out some of these projects and feel free to email
-    me if you have any questions or comments on my code!
-    Hi! My name is Harrison Ding and I am a computer programmer who is expanding his current knowledge
-    of computer science through various projects. This blog is one of my attempts in expanding my knowledge
-    through learning more about templating, HTML, and CSS. Check out some of these projects and feel free to email
-    me if you have any questions or comments on my code!
-
-    Hi! My name is Harrison Ding and I am a computer programmer who is expanding his current knowledge
-    of computer science through various projects. This blog is one of my attempts in expanding my knowledge
-    through learning more about templating, HTML, and CSS. Check out some of these projects and feel free to email
-    me if you have any questions or comments on my code!
-    Hi! My name is Harrison Ding and I am a computer programmer who is expanding his current knowledge
-    of computer science through various projects. This blog is one of my attempts in expanding my knowledge
-    through learning more about templating, HTML, and CSS. Check out some of these projects and feel free to email
-    me if you have any questions or comments on my code!
-
-    Hi! My name is Harrison Ding and I am a computer programmer who is expanding his current knowledge
-    of computer science through various projects. This blog is one of my attempts in expanding my knowledge
-    through learning more about templating, HTML, and CSS. Check out some of these projects and feel free to email
-    me if you have any questions or comments on my code!
-    Hi! My name is Harrison Ding and I am a computer programmer who is expanding his current knowledge
-    of computer science through various projects. This blog is one of my attempts in expanding my knowledge
-    through learning more about templating, HTML, and CSS. Check out some of these projects and feel free to email
-    me if you have any questions or comments on my code!
-
-    Hi! My name is Harrison Ding and I am a computer programmer who is expanding his current knowledge
-    of computer science through various projects. This blog is one of my attempts in expanding my knowledge
-    through learning more about templating, HTML, and CSS. Check out some of these projects and feel free to email
-    me if you have any questions or comments on my code!
-    Hi! My name is Harrison Ding and I am a computer programmer who is expanding his current knowledge
-    of computer science through various projects. This blog is one of my attempts in expanding my knowledge
-    through learning more about templating, HTML, and CSS. Check out some of these projects and feel free to email
-    me if you have any questions or comments on my code!
+    <p>I am often entertained by the new advances in technology, and one that I am especially watching is 
+    Augmented Reality. It has always been a childhood dream of mine to be able to create and play in a world
+    such that the body I believe I am moving in is literally in the virtual world.</p>
 </div>

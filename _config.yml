@@ -14,7 +14,9 @@ description: > # this means to ignore newlines until "baseurl:"
     I've created this blog as a place to keep track of each of my future projects,
     and possible past and current ones as well. These projects are, by all means, 
     welcome to comments so whoever sees this blog, I do hope you will at least
-    send me a message as to what I could improve upon for my project styles.
+    send me a message as to what I could improve upon for my project styles. My main interests 
+    is currently in artificial intelligence, however, am also still in the phase of exploring
+    all that computer science has to offer. 
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "shorrian.github.io" # the base hostname & protocol for your site
