@@ -7,7 +7,7 @@ title: Projects
         {% for project in site.categories.projects %}
             <li>                
                 <p>{{project.title}}</p>
-                <a href="{{project.url | prepend: site.baseurl}}"><p>{{site.url}}{{project.url}}</p></a>
+                <a href="{{project.url | prepend: site.baseurl}}"><p>Read more...<p></a>
             </li>
         {% endfor %}
     </ul>
