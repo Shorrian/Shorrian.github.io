@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-<div class="marginalize">
+<div class="marginalize index-container">
     <h2 class="header-line">About Me</h2>
     <p>I'm a freshman currently studying at the University of Illinois Urbana-Champaign. So far, I have
     explored a multitude of realms of computer science, such as web development, desktop application development,

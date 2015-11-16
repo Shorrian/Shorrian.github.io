@@ -21,24 +21,26 @@ HEADER
 ************************************************************/
 .header{
     margin:0;
+    height:2.5rem;
     position:fixed;
     width:100%;
     background:#2da7b5;
     z-index:1;
 }
 .header ul{
-    width:100%;
+    width:80%;
+    height:100%;
     position:relative;
-    float:left;
+    margin:0 auto;
     display:block;
-    left:20%;
 }
 .header li{
-    display:block;
+    display:inline-block;
     padding : 1% 5%;
     color:rgba(255,255,255,.8);
-    float:left;
     position:relative;
+    left:25%;
+    height:100%;
 }
 
 .header li:hover{
@@ -124,9 +126,9 @@ PROJECT
     margin-top:1rem;
     width:14rem;
     padding:1rem;
-    background: rgba(47, 167, 181, .4);
+    background: rgba(47, 167, 181, .2);
     border-style:ridge;
-    border-color:rgba(47, 167, 181, .4);
+    border-color:rgba(47, 167, 181, .2);
 
 }
 .project h2{
@@ -176,3 +178,11 @@ INDEX
 .index-container *{
     padding-top:1rem;
 }
+#index-banner{
+    position:absolute;
+    height:100%;
+    width:100%;
+    top:0;
+    z-index:-1;
+}
+
