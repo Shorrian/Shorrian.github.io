@@ -1,11 +1,14 @@
 ---
-layout: default
+layout: projects 
 title: Project Post Layout 
 categories: projects
+number: default
 ---
 
 <div class="marginalize project-post">
     This will be the layout of my project posts. 
+
+
     <h1 class="centered">Project Post Title</h1>
     <ul>
         <li>Programming language(s):</li>

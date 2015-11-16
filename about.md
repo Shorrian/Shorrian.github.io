@@ -6,11 +6,11 @@ permalink: /about/
 
 <div class="marginalize">
     <h2 class="header-line">About Me</h2>
-    <p>I'm a freshman currently studying in the University of Illinois Urbana-Champaign. So far, I have
+    <p>I'm a freshman currently studying at the University of Illinois Urbana-Champaign. So far, I have
     explored a multitude of realms of computer science, such as web development, desktop application development,
     game development and mobile application development.</p>
     
-    <p> Initially, my main interest was Game Development, since games were what introduced me to the world of
+    <p> Initially, my main interest was game development, since games were what introduced me to the world of
     programming. However, after trying it out a couple of times, I realized that I have much to improve upon 
     before I could implement all the features of what I desired to create. So, in order
     to pursue such an interest in the future, I have decided to look through other aspects of computer science 
