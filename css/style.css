@@ -71,6 +71,7 @@ HEADER
     right:10%;
     padding:.5rem 1.5rem;
     cursor:default;
+    text-shadow: 1px 0px 10px blue;
 }
 .header-item:hover{
     color:grey;
