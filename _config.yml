@@ -20,10 +20,10 @@ description: > # this means to ignore newlines until "baseurl:"
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "shorrian.github.io" # the base hostname & protocol for your site
-twitter_username: shorrian
-github_username: shorrian 
+twitter_username: hdg97
+github_username: hdg97
 facebook_username: NOCAPPS
-linkedin_username: shorrian
+linkedin_username: hdg97
 
 version: 3.0
 # Build settings
