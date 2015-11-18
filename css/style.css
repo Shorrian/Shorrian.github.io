@@ -110,9 +110,9 @@ PROJECTS
     margin-top:1rem;
     width:14rem;
     padding:0;
-    background: rgba(47, 167, 181, .4);
+    background: rgba(85, 107, 47, .4);
     border-style:ridge;
-    border-color:rgba(47, 167, 181, .4);
+    border-color: rgba(85, 107, 47, .4);
 }
 .project h2{
     text-align:center;
@@ -120,16 +120,23 @@ PROJECTS
     padding:0.5rem 8%;
     border-bottom-style:solid;
     border-bottom-width:1px;
-    border-bottom-color:rgba(47,167,181,.4);
+    border-bottom-color: rgba(85, 107, 47, .4);
 }
+
 .project p{
     padding: 0 8%;
+    font-size: .8rem;
 }
 .project img{
     width:14rem;
     margin:auto;
+    background:#000;
     border-top-left-radius:10px;
     border-top-right-radius:10px;
+}
+.project img:hover{
+    opacity:.7;
+    transition:.5s;
 }
 #project-grid{
     width:90%;
