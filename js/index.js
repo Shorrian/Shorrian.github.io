@@ -1,11 +1,17 @@
 $(document).ready(function(){
     $("body").css("display", "none");
     $("body").fadeIn(1000);
+    resizeImage();
+    $(window).resize(function(){
+        resizeImage();
+    });
 });
-$('#background-image').css({
-    'width': $(window).width(),
-    'height': $(window).height()
-});
+function resizeImage(){
+    $('#background-image').css({
+        'width': $(window).width(),
+        'height': $(window).height()
+    });
+}
 $('#wai-banner').css({
     'width': $(window).width(),
     'height': $(window).height()
