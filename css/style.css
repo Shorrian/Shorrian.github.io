@@ -19,8 +19,11 @@ ul a{
 a{
     text-decoration:none;
 }
-html{
+.header-item, h1, h2, h3, h4, h5, h6{
     font-family:basicFont;
+}
+html{
+    font-family:'sans serif';
     height:100%;
 }
 body{
@@ -28,7 +31,7 @@ body{
 }
 #background-image{
     position:absolute;
-    opacity:.2;
+    opacity:.4;
     z-index:-1;
     background:url("/img/banner.jpg");
     background-size:100% 100%;
