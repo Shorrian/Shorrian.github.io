@@ -2,14 +2,25 @@ html, body, ul, li, h1, h2, h3, h4, h5, h6, span{
     margin:0;
     padding:0;
 }
+@font-face{
+    font-family: basicFont;
+    src: url("/fonts/basictitlefont.ttf");
+}
 ul{
     list-style:none;
+}
+ul a{
+    color:black;
 }
 .fancy-script{
     font-family: 'Libre Baskerville';
     font-style:italic;
 }
+a{
+    text-decoration:none;
+}
 html{
+    font-family:basicFont;
     height:100%;
 }
 body{
@@ -65,13 +76,59 @@ HEADER
 /*****************************************************
 CONTENT
 *****************************************************/
+.content{
+    padding-top:1rem;
+    line-height:1.5rem;
+}
 /*****************************************************
 ABOUT
 *****************************************************/
 .about{
     line-height:1.5rem;
 }
-.about h2{
+.header-line {
     text-decoration:underline;
     padding-top:5rem;
+}
+/*****************************************************
+PROJECTS
+*****************************************************/
+.grid-item{
+    line-height:1.5rem;
+    border-radius:10px;
+}
+.grid-item a{
+    color:black;
+    text-decoration:none;
+    margin:0 auto;
+}
+.project {
+    margin:0 auto;
+    margin-top:1rem;
+    width:14rem;
+    padding:0;
+    background: rgba(47, 167, 181, .4);
+    border-style:ridge;
+    border-color:rgba(47, 167, 181, .4);
+}
+.project h2{
+    text-align:center;
+    line-height:2rem;
+    padding:0.5rem 8%;
+    border-bottom-style:solid;
+    border-bottom-width:1px;
+    border-bottom-color:rgba(47,167,181,.4);
+}
+.project p{
+    padding: 0 8%;
+}
+.project img{
+    width:14rem;
+    margin:auto;
+    border-top-left-radius:10px;
+    border-top-right-radius:10px;
+}
+#project-grid{
+    width:90%;
+    margin:auto;
 }
