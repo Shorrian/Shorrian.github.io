@@ -142,3 +142,24 @@ PROJECTS
     width:90%;
     margin:auto;
 }
+/*****************************************
+CONTACT
+*****************************************/
+.contacts{
+    padding-top:10%;
+    margin:0 auto;
+    text-align:center;
+}
+.contacts img{
+    margin: 0 3rem;
+}
+.contacts img:hover{
+    opacity:.5;
+    transition:.5s;
+}
+.credit{
+    position:absolute;
+    font-size:.5rem;
+    right:0;
+    bottom:0;
+}
